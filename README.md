@@ -5,7 +5,7 @@
 Apoca AR simulates a prediction of the world of 2070 if the climate crisis isn't fought harder. Standing in an Apoca AR viable spot, people will be able to see into the future, based on underlying data given from Iceland weather statistics.
 
 ## Data used
-![vedur.is](data.png)
+![data.txt](data.png)
 
 ## Live demo
 https://davidhs.github.io/reboot-hack-2020-panorama/
