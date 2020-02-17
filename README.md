@@ -12,9 +12,10 @@ https://davidhs.github.io/reboot-hack-2020-panorama/
 
 ## LHÍ challenge prize photo
 
-<p float="left">
-  <img src="/prizephoto.png" width="56%" />
-  <img src="/prizephoto2.png" width="42%" /> 
+<p align="center">
+  <img src="/prizephoto2.png" width="80%" /> 
+  <img src="/prizephoto.png" width="80%" />
+  
 </p>
 
 ## Project members
