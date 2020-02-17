@@ -1,5 +1,4 @@
 # Reboot Hack 2020: Apoca AR
-
 ![Cover](cover.jpg)
 
 ## What it is
