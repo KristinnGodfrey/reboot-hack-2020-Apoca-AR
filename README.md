@@ -14,7 +14,7 @@ https://davidhs.github.io/reboot-hack-2020-panorama/
 ## LHÍ challenge
 
 <p align="center">
-  <img src="/prizephoto2.png" width="80%" /> 
+  <img src="/prizepicture2.png" width="80%" /> 
   <img src="/prizephoto.png" width="80%" />  
 </p>
 
