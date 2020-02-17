@@ -10,7 +10,7 @@ Apoca AR simulates a prediction of the world of 2070 if the climate crisis isn't
 ## Live demo
 https://davidhs.github.io/reboot-hack-2020-panorama/
 
-## LHÍ challenge prize photo
+## LHÍ challenge winners
 
 <p align="center">
   <img src="/prizephoto2.png" width="80%" /> 
