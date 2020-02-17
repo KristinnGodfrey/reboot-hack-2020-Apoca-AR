@@ -11,7 +11,7 @@ Our data was extracted from the Icelandic meteorological office: [vedur.is](http
 ## Live demo
 https://davidhs.github.io/reboot-hack-2020-panorama/
 
-## LHÍ challenge winners
+## LHÍ challenge
 
 <p align="center">
   <img src="/prizephoto2.png" width="80%" /> 
