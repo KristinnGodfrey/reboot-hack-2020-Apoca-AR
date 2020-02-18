@@ -16,7 +16,7 @@ https://davidhs.github.io/reboot-hack-2020-panorama/
 <p align="center">
   <img src="/prizepicture2.png" width="80%" /> 
   <img src="/prizephoto.png" width="80%" />  
-  <figcaption><sub> With us in this picture is the representative from Iceland University of the Arts (LHÍ) standing in the far left. </sub></figcaption>
+  <figcaption><sub> With us in this picture is the representative from Iceland University of the Arts (LHÍ) standing on the far left. </sub></figcaption>
 </p>
 
 ## Project members
